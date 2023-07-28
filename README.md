@@ -57,3 +57,11 @@ wsl -- install
 - Then we check whether the images file has been created in local.
 
 <img width="570" alt="Screenshot 2023-07-29 013748" src="https://github.com/RevoU-FSSE-2/week-6-fadli131/assets/109584701/0d1da4a7-9f5e-4ca6-a55e-52618dd6d4b3">
+
+- Generate the following code to run a Docker command with the aim of running a Docker container from the Docker image fadli/node.js
+
+<img width="385" alt="Screenshot 2023-07-29 014622" src="https://github.com/RevoU-FSSE-2/week-6-fadli131/assets/109584701/8d492e22-2723-489a-be6d-e5b6007c4555">
+
+### Run localhost:3000 to see if the server is working
+
+<img width="569" alt="Screenshot 2023-07-28 205442" src="https://github.com/RevoU-FSSE-2/week-6-fadli131/assets/109584701/829b3c4f-8c7a-49b9-a56d-c37f981ec2ae">
